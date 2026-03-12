@@ -14,11 +14,9 @@ Kliknij [TUTAJ](https://github.com/Gergir/depl-pocketbook/releases/download/v1.0
    <img width="392" height="328" alt="image" src="https://github.com/user-attachments/assets/5a80db47-4755-4185-ad45-468bc8c2023d" />
 
 
-## ☕ Jeśli słownik Ci się przyda...
+## ⭐ Jeśli słownik Ci się przyda...
 
-Przygotowanie tej wersji wymagało ręcznej poprawy wielu znaczników oraz błędów technicznych. Jeśli moja praca ułatwi Ci naukę i chcesz postawić mi za nią symboliczną kawę, będę bardzo wdzięczny!
-
-👉 **[Postaw kawę](https://buycoffee.to/gruszkadev)**
+Przygotowanie tej wersji wymagało ręcznej poprawy wielu znaczników oraz błędów technicznych. Jeśli moja praca ułatwi Ci naukę, możesz zostawić gwiazdkę ⭐
 
 ## Podgląd
 <table>
